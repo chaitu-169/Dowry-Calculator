@@ -26,7 +26,7 @@ function App() {
               </div>
               <div>
                 <h1 className="text-3xl font-bold text-gray-800">Dowry Calculator</h1>
-                <p className="text-gray-600 text-sm">Marriage Cost Estimator</p>
+                <p className="text-gray-600 text-sm">Dowry Estimation Tool</p>
               </div>
             </div>
           </div>
@@ -40,8 +40,12 @@ function App() {
             {/* Introduction */}
             <div className="max-w-3xl mx-auto text-center mb-12">
               <h2 className="text-4xl font-bold text-gray-800 mb-6">
-                Calculate Marriage Expenses 💰
+                Negotiate Your Dowry Like a Pro 💰
               </h2>
+              <p className="text-xl text-gray-600 mb-6">
+                Ever Wondered How much you're “worth” for the Dowry and How much you can expect
+                (and negotiate 😉) with your Father-in-law beforehand? Then this is for you — A must Need Tool.
+              </p>
               <p className="text-xl text-gray-600 mb-6">
                 Get an estimate of marriage costs based on various factors.
                 <br />
