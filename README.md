@@ -1,4 +1,4 @@
-# 💍 Dowry Calculator – Marriage Cost Estimator
+# 💍 Dowry Calculator – Worth Estimator
 
 A fun and educational web app that estimates marriage costs based on multiple factors.  
 Built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS v4**.
