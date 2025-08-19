@@ -1,4 +1,4 @@
-# 💍 Dowry Calculator – Worth Estimator
+# 💍 Dowry Calculator – Worth Estimator |~_~|
 
 A fun and educational web app that estimates marriage costs based on multiple factors.  
 Built with **React**, **Vite**, **TypeScript**, and **Tailwind CSS v4**.
@@ -39,7 +39,7 @@ public/              # Static assets
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dowry-calculator.git
+git clone https://github.com/chaitu-169/dowry-calculator.git
 cd dowry-calculator
 ```
 

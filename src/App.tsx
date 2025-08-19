@@ -47,7 +47,7 @@ function App() {
                 (and negotiate 😉) with your Father-in-law beforehand? Then this is for you — A must Need Tool.
               </p>
               <p className="text-xl text-gray-600 mb-6">
-                Get an estimate of marriage costs based on various factors.
+                Get an estimate of Dowry costs based on various factors.
                 <br />
                 <span className="text-lg italic">Fill out the form below for your personalized calculation.</span>
               </p>
@@ -66,7 +66,7 @@ function App() {
                     <Heart className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-2">Educational</h3>
-                  <p className="text-gray-600 text-sm">Learn about traditional marriage customs and costs!</p>
+                  <p className="text-gray-600 text-sm">Learn about traditional marriage customs and Dowry costs!</p>
                 </div>
                 
                 <div className="bg-white p-6 rounded-xl shadow-lg">
@@ -90,10 +90,10 @@ function App() {
       <footer className="bg-gray-800 text-white py-8 mt-16">
         <div className="max-w-4xl mx-auto px-4 text-center">
           <p className="text-lg mb-4">
-            💡 Plan your marriage expenses wisely and make informed decisions!
+            💡 Plan your value expense wisely and make informed decisions!
           </p>
           <p className="text-gray-400 text-sm">
-            Marriage cost calculator for planning purposes. 
+            Dowry cost calculator for planning purposes. 
             Make your special day memorable! 🌟
           </p>
         </div>
